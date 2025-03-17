@@ -160,12 +160,12 @@
 .login-utils .texto1{
     font-size: 16px;
     font-family: 'poppins', sans-serif;
-    color: white;
+    color: rgb(8, 0, 255);
 }
 .login-utils .texto2{
     font-size: 16px;
     font-family: 'poppins', sans-serif;
-    color: white;
+    color: rgb(8, 0, 255);
 }
 .login-utils a{
     text-decoration: none;
